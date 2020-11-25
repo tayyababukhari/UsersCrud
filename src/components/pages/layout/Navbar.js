@@ -7,7 +7,7 @@ const Navbar = () => {
 
             <div className="container">
 
-                <a className="navbar-brand" href="#">React User</a>
+                <a className="navbar-brand" href="#">Simple CRUD App</a>
 
                 <div className="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul className="navbar-nav mr-auto">
